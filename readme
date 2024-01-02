@@ -50,7 +50,7 @@ This document provides details about the Notes API, explaining the available end
 
 # Update a Note
 
-- **UR**L: `/api/notes/:id`
+- **URL**: `/api/notes/:id`
 - **Method**: `PUT`
 - **Description**:
   - Update the content of an existing note.
